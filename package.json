@@ -1,0 +1,16 @@
+{
+  "name": "langfuse-prompt-name-linking-bug",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@langchain/google-genai": "^1.0.0",
+    "@langfuse/client": "^4.2.0",
+    "@langfuse/langchain": "^4.2.0",
+    "@langfuse/otel": "^4.2.0",
+    "@langfuse/tracing": "^4.2.0",
+    "@opentelemetry/sdk-node": "^0.207.0",
+    "dotenv": "^17.2.3"
+  }
+}
